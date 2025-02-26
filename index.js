@@ -15,7 +15,7 @@ function createPassword_1() {
     return password;
 }
 
-// Button click handler
+
 function generatePasswords_1() {
     // Clear previous content
     document.getElementById('password_1').textContent = '';
@@ -44,7 +44,7 @@ function createPassword_2() {
     return password;
 }
 
-// Button click handler
+
 function generatePasswords_2() {
     // Clear previous content
     document.getElementById('password_3').textContent = '';
